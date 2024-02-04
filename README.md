@@ -21,7 +21,7 @@ Given the numerator and denominator of a transfer function, this MATLAB script g
 - The `clear` function is used at the start of the program, make sure to save any previous variables before running the script.
 - The following transfer function is already included in the script:
   
-\frac{500(s^2+7s+10)}{s^3+30s^2+296s+960}
+$$\frac{500(s^2+7s+10)}{s^3+30s^2+296s+960}$$
 
 ## How it works ##
 | Element       | Description                                     |
