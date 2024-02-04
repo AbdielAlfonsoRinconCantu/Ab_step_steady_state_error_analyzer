@@ -3,7 +3,7 @@ Given the numerator and denominator of a transfer function, this MATLAB script g
 
 ## Features ##
 - Graphs the poles of a closed-loop transfer function.
-- Displays unitary step response.
+- Displays step response.
 - Determines the stability of the system.
 - Computes the steady-state error for a step signal input.
 - Comments on every line explaining their purpose.
